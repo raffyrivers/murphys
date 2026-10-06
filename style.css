@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #006A4E;
+}
+
+ul {
+  color: white;
+}
+
+footer {
+	background-color: #006A4E;
+	color: white;
+}
+
+.grad-background {
+	height: 800px;
+  	background-image:
+    	url("murphys-new-background.jpeg");
+  	background-position: center;
+  	background-size: cover;
+  	background-repeat: no-repeat;
+}
